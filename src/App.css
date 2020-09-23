@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  background-color: #66CCFF;
+  font-family: sans-serif;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+.todo{
+  background-color: blueviolet;
+  align-self: center;
+}
+
+.todo-list {
+  background-color: aliceblue;
+  align-self: center;
+}
+
